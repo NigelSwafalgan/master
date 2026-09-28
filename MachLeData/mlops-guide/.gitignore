@@ -1,14 +1,6 @@
-# Data used to train the models
-data/prepared/
-
-# Evaluation results
-evaluation/
-
-# The models
-model/
-
 ## Python
 .venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+/model
